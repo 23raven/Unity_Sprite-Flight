@@ -23,3 +23,6 @@ The project can be built using Unity for desktop platforms such as Windows and m
 | Gameplay | UI / Menu |
 |----------|-----------|
 |<img width="1919" height="1079" alt="SpFlight 1" src="https://github.com/user-attachments/assets/aa6f9c12-e567-41a9-8773-74f3d05fd183" /> | <img width="1919" height="1079" alt="SpFlight 2" src="https://github.com/user-attachments/assets/a29cd64d-2474-42c9-9ba0-4572256c9641" /> |
+
+
+Youtube: https://youtu.be/vYucQs1Fw9o
