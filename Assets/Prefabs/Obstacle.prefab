@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -712631045867808456, guid: b670ab75dde984907b8570040daa08c5, type: 3}
-  m_Color: {r: 0.28627452, g: 0.06666667, b: 0.10980392, a: 1}
+  m_Color: {r: 0.8980392, g: 0.21960784, b: 0.23137255, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -186,3 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfdd7370b36f6a44b97ebcadf6068e21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+  minSpeed: 50
+  maxSpeed: 150
+  minSize: 0.5
+  maxSize: 2
